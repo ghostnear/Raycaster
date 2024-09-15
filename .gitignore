@@ -1,0 +1,6 @@
+build/
+.cache/
+
+# Windows specifics.
+vcpkg_installed/
+vcpkg-configuration.json
